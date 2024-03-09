@@ -625,8 +625,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 553 545,
-                     BOTTOMRIGHT: 603 589,
+        SCREENRECT = UPPERLEFT: 513 544,
+                     BOTTOMRIGHT: 552 590,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand14";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED;
@@ -672,8 +672,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 553 494,
-                     BOTTOMRIGHT: 603 538,
+        SCREENRECT = UPPERLEFT: 513 493,
+                     BOTTOMRIGHT: 552 539,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand13";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED+ON_MOUSE_DOWN;
@@ -719,8 +719,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 498 545,
-                     BOTTOMRIGHT: 548 589,
+        SCREENRECT = UPPERLEFT: 472 544,
+                     BOTTOMRIGHT: 511 590,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand12";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED+ON_MOUSE_DOWN;
@@ -766,8 +766,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 498 494,
-                     BOTTOMRIGHT: 548 538,
+        SCREENRECT = UPPERLEFT: 472 493,
+                     BOTTOMRIGHT: 511 539,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand11";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED+ON_MOUSE_DOWN;
@@ -813,8 +813,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 443 545,
-                     BOTTOMRIGHT: 493 589,
+        SCREENRECT = UPPERLEFT: 431 544,
+                     BOTTOMRIGHT: 470 590,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand10";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED+ON_MOUSE_DOWN;
@@ -860,8 +860,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 443 494,
-                     BOTTOMRIGHT: 493 538,
+        SCREENRECT = UPPERLEFT: 431 493,
+                     BOTTOMRIGHT: 470 539,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand09";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED+ON_MOUSE_DOWN;
@@ -907,8 +907,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 388 545,
-                     BOTTOMRIGHT: 438 589,
+        SCREENRECT = UPPERLEFT: 390 544,
+                     BOTTOMRIGHT: 429 590,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand08";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED+ON_MOUSE_DOWN;
@@ -954,8 +954,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 388 494,
-                     BOTTOMRIGHT: 438 538,
+        SCREENRECT = UPPERLEFT: 390 493,
+                     BOTTOMRIGHT: 429 539,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand07";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED+ON_MOUSE_DOWN;
@@ -1001,8 +1001,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 333 545,
-                     BOTTOMRIGHT: 383 589,
+        SCREENRECT = UPPERLEFT: 349 549,
+                     BOTTOMRIGHT: 388 590,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand06";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED+ON_MOUSE_DOWN;
@@ -1048,8 +1048,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 333 494,
-                     BOTTOMRIGHT: 383 538,
+        SCREENRECT = UPPERLEFT: 349 493,
+                     BOTTOMRIGHT: 388 539,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand05";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED+ON_MOUSE_DOWN;
@@ -1095,8 +1095,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 278 545,
-                     BOTTOMRIGHT: 328 589,
+        SCREENRECT = UPPERLEFT: 308 544,
+                     BOTTOMRIGHT: 347 590,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand04";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED+ON_MOUSE_DOWN;
@@ -1142,8 +1142,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 278 494,
-                     BOTTOMRIGHT: 328 538,
+        SCREENRECT = UPPERLEFT: 308 493,
+                     BOTTOMRIGHT: 347 539,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand03";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED+ON_MOUSE_DOWN;
@@ -1189,8 +1189,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 223 545,
-                     BOTTOMRIGHT: 273 589,
+        SCREENRECT = UPPERLEFT: 267 544,
+                     BOTTOMRIGHT: 306 590,
                      CREATIONRESOLUTION: 800 600;
         NAME = "ControlBar.wnd:ButtonCommand02";
         STATUS = ENABLED+IMAGE+NOFOCUS+WRAP_CENTERED+ON_MOUSE_DOWN;
@@ -4054,8 +4054,8 @@ WINDOW
   CHILD
   WINDOW
     WINDOWTYPE = PUSHBUTTON;
-    SCREENRECT = UPPERLEFT: 192 519,
-                 BOTTOMRIGHT: 222 541,
+    SCREENRECT = UPPERLEFT: 245 516,
+                 BOTTOMRIGHT: 265 539,
                  CREATIONRESOLUTION: 800 600;
     NAME = "ControlBar.wnd:ButtonIdleWorker";
     STATUS = IMAGE+NOFOCUS+ON_MOUSE_DOWN;
@@ -4148,8 +4148,8 @@ WINDOW
   CHILD
   WINDOW
     WINDOWTYPE = PUSHBUTTON;
-    SCREENRECT = UPPERLEFT: 192 567,
-                 BOTTOMRIGHT: 222 589,
+    SCREENRECT = UPPERLEFT: 245 568,
+                 BOTTOMRIGHT: 265 590,
                  CREATIONRESOLUTION: 800 600;
     NAME = "ControlBar.wnd:PopupCommunicator";
     STATUS = ENABLED+IMAGE+NOFOCUS;
@@ -4195,8 +4195,8 @@ WINDOW
   CHILD
   WINDOW
     WINDOWTYPE = PUSHBUTTON;
-    SCREENRECT = UPPERLEFT: 192 495,
-                 BOTTOMRIGHT: 222 517,
+    SCREENRECT = UPPERLEFT: 245 490,
+                 BOTTOMRIGHT: 265 512,
                  CREATIONRESOLUTION: 800 600;
     NAME = "ControlBar.wnd:ButtonOptions";
     STATUS = ENABLED+IMAGE+NOFOCUS;
@@ -4575,8 +4575,8 @@ WINDOW
   CHILD
   WINDOW
     WINDOWTYPE = USER;
-    SCREENRECT = UPPERLEFT: 77 416,
-                 BOTTOMRIGHT: 122 461,
+    SCREENRECT = UPPERLEFT: 102 409,
+                 BOTTOMRIGHT: 131 429,
                  CREATIONRESOLUTION: 800 600;
     NAME = "ControlBar.wnd:WinUAttack";
     STATUS = ENABLED+IMAGE;
